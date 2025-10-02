@@ -39,7 +39,7 @@ ORDER BY → Sorts results in ascending/descending order.
 
 GROUP BY → Groups rows sharing a property for aggregation.
 
-📌 What These Views Cover
+## 📌 What These Views Cover
 
 1.Basic selection (EmployeeInfo)
 
