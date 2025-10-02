@@ -64,3 +64,11 @@ Understood how views improve security by limiting column access.
 Simplified complex joins into easy-to-use queries.
 
 Practiced creating and querying views in PostgreSQL.
+
+## 📂 Project Structure
+SQL-Views/
+│── README.md         # Project documentation (this file)
+│── schema.sql        # Table creation script
+│── data.sql          # Sample dataset inserts
+│── queries.sql       # View creation + usage queries
+│── erdiagram.png     # Exported ER diagram
