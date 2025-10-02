@@ -68,7 +68,11 @@ Practiced creating and querying views in PostgreSQL.
 ## 📂 Project Structure
 SQL-Views/
 │── README.md         # Project documentation (this file)
+
 │── schema.sql        # Table creation script
+
 │── data.sql          # Sample dataset inserts
+
 │── queries.sql       # View creation + usage queries
+
 │── erdiagram.png     # Exported ER diagram
